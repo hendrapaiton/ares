@@ -1,2 +1,2 @@
-# svelte
+# svelme
 Svelte Bulma Line-Awesome
