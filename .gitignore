@@ -1,4 +1,6 @@
 /node_modules/
 /public/build/
+/public/fonts/
+/public/global.css
 
 .DS_Store
