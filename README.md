@@ -1,4 +1,4 @@
-# svelme
+# svelma
 Svelte Bulma Line-Awesome
 
 ## Install packages
