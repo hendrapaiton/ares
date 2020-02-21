@@ -1,5 +1,5 @@
 {
-  "name": "svelma-template",
+  "name": "ares",
   "version": "1.0.0",
   "scripts": {
     "build": "sass --no-source-map src/tema.scss public/global.css",
