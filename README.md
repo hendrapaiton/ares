@@ -1,5 +1,5 @@
 # ares
-Svelte Bulma Line-Awesome
+Svelte Bulma Line-Awesome Template
 
 ## Install packages
 ```
