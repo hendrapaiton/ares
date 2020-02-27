@@ -1,5 +1,5 @@
 <script>
-
+  export let login;
 </script>
 
 <style>
@@ -34,12 +34,19 @@
             </div>
             <div class="field">
               <div class="control">
-                <button class="button is-success is-fullwidth">Login</button>
+                <button
+                  type="button"
+                  class="button is-success is-fullwidth"
+                  on:click|preventDefault={() => (login = true)}>
+                  Login
+                </button>
               </div>
             </div>
           </form>
           <small class="is-size-7 has-text-grey">
-            Hak Cipta &copy; 2020 Pesantren Nurul Jadid Probolinggo
+            &copy; 2020
+            <a href="https://github.com/hendrapaiton">hendrapaiton</a>
+            all right reserved
           </small>
         </div>
       </div>

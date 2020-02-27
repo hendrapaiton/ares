@@ -1,11 +1,11 @@
 <script>
   import Login from "./login/Login.svelte";
   import Dashboard from "./dashboard/Dashboard.svelte";
-  let login = true;
+  let login = false;
 </script>
 
 {#if login}
-  <Dashboard />
+  <Dashboard bind:login={login} />
 {:else}
-  <Login />
+  <Login bind:login={login} />
 {/if}
