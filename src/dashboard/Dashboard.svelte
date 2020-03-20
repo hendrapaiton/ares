@@ -136,6 +136,14 @@
                 </tr>
                 </tbody>
             </table>
+            <nav class="level">
+                <div class="level-item">
+                    <small class="is-size-7 has-text-grey has-text-centered">&copy; 2020
+                        <a href="https://github.com/hendrapaiton">hendrapaiton</a>
+                        all right reserved
+                    </small>
+                </div>
+            </nav>
         </div>
     </div>
 </div>
