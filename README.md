@@ -1,5 +1,5 @@
-# ares
-Svelte Bulma Line-Awesome Template
+# ARES DASHBOARD
+Simple Svelte Bulma Line-Awesome Dashboard Template
 
 ## Install packages
 ```
