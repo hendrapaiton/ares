@@ -8,10 +8,15 @@ npm install
 
 ## Build global css
 ```
-npm run build
+npm run css
 ```
 
 ## Build svelte apps and livereload
 ```
 npm run dev
+```
+
+## Build svelte apps for production
+```
+npm run build
 ```
